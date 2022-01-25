@@ -1,7 +1,5 @@
 # Xbox kinect 
 ![Status badge](https://img.shields.io/badge/status-in%20progress-blueviolet)
-[//]:#![Status badge](https://img.shields.io/badge/status-done-blue)
-[//]:#![Status badge](https://img.shields.io/badge/status-testing-important)
 
 ✨ _El presente projecto sera para programar el kinect para reconocmiento de patrones_
 
@@ -85,11 +83,3 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * PHP
 * Javascript
 * HTML
-
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-
-
