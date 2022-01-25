@@ -1,7 +1,7 @@
 # Xbox kinect 
 ![Status badge](https://img.shields.io/badge/status-in%20progress-blueviolet)
-[//]:<>![Status badge](https://img.shields.io/badge/status-done-blue)
-[//]:<>![Status badge](https://img.shields.io/badge/status-testing-important)
+[//]:#![Status badge](https://img.shields.io/badge/status-done-blue)
+[//]:#![Status badge](https://img.shields.io/badge/status-testing-important)
 
 ✨ _El presente projecto sera para programar el kinect para reconocmiento de patrones_
 
