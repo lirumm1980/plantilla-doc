@@ -83,3 +83,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * PHP
 * Javascript
 * HTML
+
+
+Colaborador Elena con Miguel
